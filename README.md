@@ -1,1 +1,3 @@
-# intro_cs_23010310
+#Thực hành Git
+Repo Thực Hành & Github
+Them mot dong
